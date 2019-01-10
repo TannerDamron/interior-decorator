@@ -8,4 +8,17 @@ h3 {
 .column {
   float: left;
   padding: 47px;
+  background-color: red;
+}
+
+.column2 {
+  float: left;
+  padding: 47px;
+  background-color: green;
+}
+
+.column3 {
+  float: left;
+  padding: 47px;
+  background-color: yellow;
 }
